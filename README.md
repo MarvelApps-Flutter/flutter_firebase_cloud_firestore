@@ -1,6 +1,9 @@
 # Flutter Firebase Cloud Firestore
 A new flutter app for demonstrating Firebase Cloud Firestore CRUD Operations
 
+# Demo
+<td><img src="https://github.com/MarvelApps-Flutter/flutter_firebase_cloud_firestore/blob/dev/screenshots/gif/demo.gif" height="480px"></td>
+
 # Android Screenshots
 
 <table>
